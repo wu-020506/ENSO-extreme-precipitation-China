@@ -1,0 +1,20 @@
+name: enso-extreme-precip
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - numpy
+  - pandas
+  - xarray
+  - scipy
+  - matplotlib
+  - statsmodels
+  - geopandas
+  - shapely
+  - cartopy
+  - rioxarray
+  - netcdf4
+  - h5netcdf
+  - openpyxl
+  - requests
+  - urllib3

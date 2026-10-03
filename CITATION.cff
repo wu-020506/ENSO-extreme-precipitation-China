@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "ENSO and extreme-precipitation risk across China: core analysis code"
+type: software
+authors:
+  - family-names: "YOUR_FAMILY_NAME"
+    given-names: "YOUR_GIVEN_NAME"
+repository-code: "https://github.com/YOUR_ACCOUNT/YOUR_REPOSITORY"

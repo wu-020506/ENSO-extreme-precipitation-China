@@ -1,0 +1,15 @@
+numpy
+pandas
+xarray
+scipy
+matplotlib
+statsmodels
+geopandas
+shapely
+cartopy
+rioxarray
+netCDF4
+h5netcdf
+openpyxl
+requests
+urllib3

@@ -1,0 +1,42 @@
+[
+  {
+    "script": "01_enso_classification.py",
+    "top_explanatory_docstring_removed": true,
+    "syntax_check": "PASS"
+  },
+  {
+    "script": "02_basin_distribution_rr_far.py",
+    "top_explanatory_docstring_removed": true,
+    "syntax_check": "PASS"
+  },
+  {
+    "script": "03_month_threshold_log2rr.py",
+    "top_explanatory_docstring_removed": true,
+    "syntax_check": "PASS"
+  },
+  {
+    "script": "04a_monthly_spatial_rr.py",
+    "top_explanatory_docstring_removed": true,
+    "syntax_check": "PASS"
+  },
+  {
+    "script": "04b_seasonal_spatial_rr.py",
+    "top_explanatory_docstring_removed": true,
+    "syntax_check": "PASS"
+  },
+  {
+    "script": "05_recurrence_hotspots.py",
+    "top_explanatory_docstring_removed": true,
+    "syntax_check": "PASS"
+  },
+  {
+    "script": "06_basin_risk_translation.py",
+    "top_explanatory_docstring_removed": true,
+    "syntax_check": "PASS"
+  },
+  {
+    "script": "07_era5_mechanisms.py",
+    "top_explanatory_docstring_removed": false,
+    "syntax_check": "PASS"
+  }
+]

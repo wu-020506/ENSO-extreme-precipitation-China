@@ -2,6 +2,8 @@ cff-version: 1.2.0
 message: "If you use this software, please cite this repository."
 title: "ENSO and extreme-precipitation risk across China: core analysis code"
 type: software
+license: "MIT"
+version: "1.0.0"
 authors:
   - family-names: "Wu"
     given-names: "Yuanke"

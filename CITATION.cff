@@ -1,8 +1,18 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite the associated manuscript."
+message: "If you use this software, please cite this repository."
 title: "ENSO and extreme-precipitation risk across China: core analysis code"
 type: software
 authors:
-  - family-names: "YOUR_FAMILY_NAME"
-    given-names: "YOUR_GIVEN_NAME"
-repository-code: "https://github.com/YOUR_ACCOUNT/YOUR_REPOSITORY"
+  - family-names: "Wu"
+    given-names: "Yuanke"
+repository-code: "https://github.com/wu-020506/ENSO-extreme-precipitation-China"
+url: "https://github.com/wu-020506/ENSO-extreme-precipitation-China"
+abstract: >-
+  Python scripts for ENSO classification, extreme-precipitation
+  index calculation, statistical analysis, basin-scale risk
+  assessment, and figure generation across China.
+keywords:
+  - ENSO
+  - extreme precipitation
+  - China
+  - river basins
